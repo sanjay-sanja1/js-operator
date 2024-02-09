@@ -1,0 +1,53 @@
+Conditional statements in JavaScript allow you to execute specific blocks of code based on conditions. 
+  If the condition meets then a particular block of action will be executed otherwise it will execute another block of action that satisfies that particular condition.
+
+There are several methods that can be used to perform Conditional Statements in JavaScript.
+
+if Statement
+if-else Statement
+else if Statement
+switch Statement
+Ternary Operator
+
+if statement
+      if (condition){
+       statement
+}
+
+if else
+if(condition)
+{
+  statement
+}
+else
+{
+statement
+}
+else if 
+{
+if(condition)
+{
+  statement
+}
+else
+{
+  statement
+}
+else if(condition)
+{
+statement
+}
+
+switch case 
+  switch (variable)
+{
+case 1:
+statement
+  break;
+  }
+defult:
+{
+}
+ternary operator 
+condition? true : false 
+  
