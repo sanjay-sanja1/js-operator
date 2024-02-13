@@ -1,0 +1,19 @@
+for (initialization; condition; increment/decrement) {
+    // code to be executed
+}
+WHILE LOOP
+while (condition) {
+    // code to be executed
+}
+do...while loop
+do {
+    // code to be executed
+} while (condition);
+FOR-IN-LOOP
+for (variable in object) {
+    // code to be executed
+}
+for(variable out object)
+{
+//code to executed
+}
